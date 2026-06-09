@@ -93,9 +93,8 @@ radio-Praca-BR_highrise/
 - Botões: ⏮️ ⏯️ ⏭️ 🔀
 - Sincronização em tempo real
 
-### ✅ Bloco 3: Conversor YouTube → MP3
-- Detecção automática (vídeo/playlist)
-- Download e conversão
+### ✅ Bloco 3: reprodutor → MP3
+- local
 - Requisição via bot
 
 ### ✅ Bloco 4: Upload de Arquivos
@@ -112,5 +111,5 @@ radio-Praca-BR_highrise/
 1. Configurar variáveis de ambiente
 2. Criar arquivos base HTML/CSS/JS
 3. Implementar API de streaming
-4. Configurar YouTube downloader
+4. Configurar downloader
 5. Integrar com bot Highrise
