@@ -1,0 +1,8 @@
+# Proteção de código - Rádio Jeffão
+# Todas as mudanças requerem aprovação do proprietário
+
+* @fenix96586
+
+# Arquivos críticos requerem aprovação adicional
+backend/**/*.js @fenix96586
+bot/**/*.js @fenix96586
